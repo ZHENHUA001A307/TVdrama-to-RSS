@@ -4,11 +4,18 @@
   <title>每日更新推送</title>
   <link>https://github.com/ZHENHUA001A307/TVdrama-to-RSS</link>
   <description>自动更新的 RSS 列表 (保留最近 15 条)</description>
-  <lastBuildDate>Thu, 21 May 2026 02:33:32 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 22 May 2026 02:35:15 +0000</lastBuildDate>
     <item>
-      <title><![CDATA[中华小当家-第49集（新增数据）]]></title>
+      <title><![CDATA[中华小当家-第50集（新增数据）]]></title>
       <link>https://v.ikanbot.com/play/629030</link>
       <description><![CDATA[]]></description>
+      <guid isPermaLink="false">https://v.ikanbot.com/play/629030</guid>
+      <pubDate>Fri, 22 May 2026 02:35:15 +0000</pubDate>
+    </item>
+<item>
+      <title>中华小当家-第49集（新增数据）</title>
+      <link>https://v.ikanbot.com/play/629030</link>
+      <description />
       <guid isPermaLink="false">https://v.ikanbot.com/play/629030</guid>
       <pubDate>Thu, 21 May 2026 02:33:32 +0000</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description />
       <guid isPermaLink="false">https://v.ikanbot.com/play/629030</guid>
       <pubDate>Mon, 04 May 2026 02:03:11 +0000</pubDate>
-    </item>
-<item>
-      <title>中华小当家-第35集</title>
-      <link>https://v.ikanbot.com/play/629030</link>
-      <description />
-      <guid isPermaLink="false">https://v.ikanbot.com/play/629030</guid>
-      <pubDate>Fri, 01 May 2026 02:11:48 +0000</pubDate>
     </item>
 </channel>
 </rss>
