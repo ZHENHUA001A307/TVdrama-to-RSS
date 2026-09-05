@@ -4,11 +4,18 @@
   <title>每日更新推送</title>
   <link>https://github.com/ZHENHUA001A307/TVdrama-to-RSS</link>
   <description>自动更新的 RSS 列表 (保留最近 15 条)</description>
-  <lastBuildDate>Sat, 29 Aug 2026 04:37:38 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 05 Sep 2026 01:47:40 +0000</lastBuildDate>
     <item>
-      <title><![CDATA[黄金神威 第二季 01]]></title>
+      <title><![CDATA[黄金神威 第二季 02]]></title>
       <link>https://www1.ikanbot.com/play/621975</link>
       <description><![CDATA[]]></description>
+      <guid isPermaLink="false">https://www1.ikanbot.com/play/621975</guid>
+      <pubDate>Sat, 05 Sep 2026 01:47:40 +0000</pubDate>
+    </item>
+<item>
+      <title>黄金神威 第二季 01</title>
+      <link>https://www1.ikanbot.com/play/621975</link>
+      <description />
       <guid isPermaLink="false">https://www1.ikanbot.com/play/621975</guid>
       <pubDate>Sat, 29 Aug 2026 04:37:38 +0000</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description />
       <guid isPermaLink="false">https://v.ikanbot.com/play/493155</guid>
       <pubDate>Thu, 11 Jun 2026 02:47:21 +0000</pubDate>
-    </item>
-<item>
-      <title>好想告诉你-第10集</title>
-      <link>https://v.ikanbot.com/play/493155</link>
-      <description />
-      <guid isPermaLink="false">https://v.ikanbot.com/play/493155</guid>
-      <pubDate>Wed, 10 Jun 2026 02:37:18 +0000</pubDate>
     </item>
 </channel>
 </rss>
